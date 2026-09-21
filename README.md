@@ -131,4 +131,4 @@ Story Points assigned using the standard Fibonacci sequence ($1, 2, 3, 5, 8, 13$
 ---
 
 ## 📌 Project Board Link
-* **GitHub Project Board:** `[INSERT YOUR GITHUB PROJECT BOARD URL HERE]`
+* **GitHub Project Board:** `[https://github.com/users/joetykespanticvt-png/projects/1]`
